@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-### About Me
+### About Me 🚀
 
 👨‍🎓 I'm a rising senior at NYU, currently pursuing my bachelors degree with a major in computer science and a minor in data science. 
 
