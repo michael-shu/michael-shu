@@ -39,4 +39,5 @@ I'm a rising senior at NYU, currently pursuing my bachelors degree with a major 
   <img src = "https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title = "Python" alt = "Python" width = "40" height = "40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title = "Bootstrap" width = "40" height = "40"/>&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title = "Vue" width = "40" height = "40"/>
 </div>
