@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 🐍Through my schoolwork and Data Science minor, I have experience with a variety of database tools such as Python, SQL, MongoDB, Neo4j, and unix commands.
 
 ☁️I am currently studying Kubernetes and AWS, and am looking for an internship to expand my tool set and learn more about industry standards. If you would like to reach me, connect with my LinkedIn. 
-
+###
 
 ### 🛠️ Langauges and Tools
 <div>
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
   <img src = "https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title = "Vue" width = "40" height = "40"/>&nbsp;&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" width = "40" height = "40"/>&nbsp;&nbsp;
 </div>
-
+###
 ### 📊 My github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-shu)](https://github.com/anuraghazra/github-readme-stats)
