@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 
 I'm a rising senior at NYU, currently pursuing my bachelors degree with a major in computer science and a minor in data science. 
 
-<div>
+<div id = "header" align = "center">
 
-<a href = "https://www.linkedin.com/in/michael-shu-1ba7b0215/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href = "https://www.linkedin.com/in/michael-shu-1ba7b0215/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-       badge&logo=linkedin&logoColor=white"/></a>
+
 </div>
 
 ###
