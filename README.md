@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 
 
-### About Me 🚀
+### 🚀 About Me 
 
 👨‍🎓 I'm a rising senior at NYU, currently pursuing my bachelors degree with a major in computer science and a minor in data science. I will graduate in the spring of 2024.
 
@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 ☁️I am currently studying Kubernetes and AWS, and am looking for an internship to expand my tool set and learn more about industry standards. If you would like to reach me, connect with my LinkedIn. 
 
 
-### Langauges and Tools
+### 🛠️ Langauges and Tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;&nbsp;
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" width = "40" height = "40"/>&nbsp;&nbsp;
 </div>
 
-### My github stats
+### 📊 My github stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-shu)](https://github.com/anuraghazra/github-readme-stats)
 
