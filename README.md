@@ -52,5 +52,5 @@ Here are some ideas to get you started:
 
 ### My github stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-shu)](https://github.com/anuraghazra/github-readme-stats)
 
