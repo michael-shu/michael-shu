@@ -49,3 +49,8 @@ Here are some ideas to get you started:
   <img src = "https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title = "Vue" width = "40" height = "40"/>&nbsp;&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" width = "40" height = "40"/>&nbsp;&nbsp;
 </div>
+
+### My github stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username)](https://github.com/anuraghazra/github-readme-stats)
+
