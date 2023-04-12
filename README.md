@@ -47,4 +47,5 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title = "Bootstrap" width = "40" height = "40"/>&nbsp;&nbsp;
   <img src = "https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title = "Vue" width = "40" height = "40"/>&nbsp;&nbsp;
+  <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" width = "40" height = "40"/>&nbsp;&nbsp;
 </div>
