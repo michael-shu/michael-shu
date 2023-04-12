@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 
 I'm a rising senior at NYU, currently pursuing my bachelors degree with a major in computer science and a minor in data science. 
 
+I'm well versed in web development langauges and frameworks such as Javascript, HTML, CSS, Node.JS, Express and React. 
+
+You can find samples of my work through basic html/css websites, the Hack @ NYU website, and my own personal project. 
+
 
 
 ### Langauges and Tools
