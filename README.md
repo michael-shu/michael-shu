@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a rising senior at NYU, currently pursuing my bachelors degree with a major in computer science and a minor in data science. 
 
-[https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white]
+<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
 
 ###
 
