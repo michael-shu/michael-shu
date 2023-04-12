@@ -32,6 +32,9 @@ I'm well versed in web development langauges and frameworks such as Javascript, 
 
 You can find samples of my work through basic html/css websites, the Hack @ NYU website, and my own personal project. 
 
+Through my schoolwork and Data Science minor, I have experience with a variety of database tools such as Python, SQL, MongoDB, Neo4j, and unix commands.
+
+I am currently studying Kubernetes and AWS, and am looking for an internship to expand my tool set and learn more about industry standards. If you would like to reach me, connect with my LinkedIn. 
 
 
 ### Langauges and Tools
