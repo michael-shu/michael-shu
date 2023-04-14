@@ -51,6 +51,7 @@ Here are some ideas to get you started:
 </div>
 
 ### 📊 My github stats
+![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-shu&show_icons=true&theme=transparent)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=michael-shu)](https://github.com/anuraghazra/github-readme-stats)
 
