@@ -50,6 +50,12 @@ Here are some ideas to get you started:
   <img src = "https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title = "C" width = "40" height = "40"/>&nbsp;&nbsp;
 </div>
 
+### Projects and Apps
+
+## FrontEnd
+<a href = "https://michael-shu.github.io/grants-reach-react/">
+
+
 ### 📊 My github stats
 ![Michael's GitHub stats](https://github-readme-stats.vercel.app/api?username=michael-shu&show_icons=true&theme=transparent)
 
