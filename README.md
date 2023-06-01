@@ -53,7 +53,10 @@ Here are some ideas to get you started:
 ### Projects and Apps
 
 #### FrontEnd
-<a href = "https://michael-shu.github.io/grants-reach-react/">
+<img src = "https://github.com/michael-shu/images/blob/main/assistanceForward.png">
+<img src = "https://github.com/michael-shu/images/blob/main/grantsReach.png">
+<img src = "https://github.com/michael-shu/images/blob/main/task%20list.png">
+<img src = "https://github.com/michael-shu/images/blob/main/capitalizer.png">
 
 
 ### 📊 My github stats
