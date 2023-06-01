@@ -52,12 +52,19 @@ Here are some ideas to get you started:
 
 ### Projects and Apps
 
-Here are projects and applications that I've built. Each image will lead you directly to the website. 
+Here are projects and applications that I've built. Each image will lead you directly to the website. Also attached are the github repos.
 
 #### FrontEnd
+[Assistance Forward](https://github.com/michael-shu/copyWebsiteAssistanceForward)
 [<img src = "https://github.com/michael-shu/images/blob/main/assistanceForward.png">](https://michael-shu.github.io/copyWebsiteAssistanceForward/)
+
+[Grants Reach React](https://github.com/michael-shu/grants-reach-react)
 [<img src = "https://github.com/michael-shu/images/blob/main/grantsReach.png">](https://github.com/michael-shu/grants-reach-react)
+
+[To Do List](https://github.com/michael-shu/toDoList)
 [<img src = "https://github.com/michael-shu/images/blob/main/task%20list.png">](https://michael-shu.github.io/toDoList/)
+
+[Capitalizer](https://github.com/michael-shu/capitalizer-react)
 [<img src = "https://github.com/michael-shu/images/blob/main/capitalizer.png">](https://michael-shu.github.io/capitalizer-react/)
 
 
