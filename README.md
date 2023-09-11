@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 🐍Through my schoolwork and Data Science minor, I have experience with a variety of database types,  query languages and tools such as Python, SQL, MongoDB, Neo4j, and unix commands.
 
-☁️I am currently studying Kubernetes and AWS, and am looking for an internship to expand my tool set and learn more about industry standards. If you would like to reach me, connect with my LinkedIn. 
+☁️I am currently studying Kubernetes and AWS, and am looking for an full time role to expand my tool set and learn more about industry standards. If you would like to reach me, connect with my LinkedIn. 
 ###
 
 ### 🛠️ Langauges and Tools
