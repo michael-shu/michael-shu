@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 👨‍🎓 I recently graduated NYU with a bachelors degree, majoring in computer science and minoring in data science. I am currently looking for full time roles
 
-💻I'm well versed in web development langauges and frameworks such as Express, React, Vue and NextJS. You can find samples of my work through [basic html/css websites](https://michael-shu.github.io/copyWebsiteAssistanceForward/), my [Champion Mastery Website](https://champion-mastery-op-gg.herokuapp.com/), and my own [portfolio](http://www.michael-shu.com). 
+💻I'm well versed in web development langauges and frameworks such as Express, React, Vue and NextJS. You can find samples of my work through [basic html/css websites](https://michael-shu.github.io/copyWebsiteAssistanceForward/), my [Champion Mastery Website](https://champion-mastery-op-gg.herokuapp.com/), and my own [portfolio](https://www.michael-shu.com). 
 
 🐍Through my schoolwork and Data Science minor, I have experience with a variety of database types,  query languages and tools such as Python, SQL, MongoDB, Neo4j, and unix commands.
 
