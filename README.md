@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div align = "center">
-![ScreenShot](https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg)
+  <img src = "https://raw.githubusercontent.com/i-saumitra/Voice-controlled-MP3-Player/master/screenshot.jpg">
   
   <a href = "https://www.linkedin.com/in/michael-shu-nyc"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-       badge&logo=linkedin&logoColor=white" width = "150"/></a>
 </div>
