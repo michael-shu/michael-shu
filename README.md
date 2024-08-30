@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 <div align = "center">
-  <img src = "https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+  <img width = "150" src = "https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
   
   <a href = "https://www.linkedin.com/in/michael-shu-nyc"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-       badge&logo=linkedin&logoColor=white" width = "150"/></a>
 </div>
