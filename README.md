@@ -26,13 +26,15 @@ Here are some ideas to get you started:
 
 ### 🚀 About Me 
 
-👨‍🎓 I'm a rising senior at NYU, currently pursuing my bachelors degree with a major in computer science and a minor in data science. I will graduate in the winter of 2023.
+👨‍🎓 I recently graduated NYU with a bachelors degree, majoring in computer science and minoring in data science. I am currently looking for full time roles
 
-💻I'm well versed in web development langauges and frameworks such as Javascript, HTML, CSS, Node.JS, Express and React. You can find samples of my work through [basic html/css websites](https://michael-shu.github.io/copyWebsiteAssistanceForward/), the [Hack @ NYU website](https://www.hacknyu.org/), and my own [personal project](https://champion-mastery-op-gg.herokuapp.com/). 
+💻I'm well versed in web development langauges and frameworks such as Express, React, Vue and NextJS. You can find samples of my work through [basic html/css websites](https://michael-shu.github.io/copyWebsiteAssistanceForward/), my [Champion Mastery Website](https://champion-mastery-op-gg.herokuapp.com/), and my own [portfolio](http://www.michael-shu.com). 
 
 🐍Through my schoolwork and Data Science minor, I have experience with a variety of database types,  query languages and tools such as Python, SQL, MongoDB, Neo4j, and unix commands.
 
-☁️I am currently studying Kubernetes and AWS, and am looking for an full time role to expand my tool set and learn more about industry standards. If you would like to reach me, connect with my LinkedIn. 
+☁️I am currently studying Kubernetes and AWS, and am looking for an full time role to expand my tool set and learn more about industry standards. 
+If you would like to reach me, connect with my LinkedIn, or use the contact form on my portfolio.
+
 ###
 
 ### 🛠️ Langauges and Tools
