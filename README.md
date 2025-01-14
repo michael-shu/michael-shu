@@ -57,17 +57,11 @@ If you would like to reach me, connect with my LinkedIn, or use the contact form
 Here are projects and applications that I've built. Each image will lead you directly to the website. Also attached are the github repos.
 
 #### FrontEnd
-[Assistance Forward Repo](https://github.com/michael-shu/copyWebsiteAssistanceForward)
+[Recipeasy Repo](https://github.com/michael-shu/copyWebsiteAssistanceForward)
 [<img src = "https://github.com/michael-shu/images/blob/main/assistanceForward.png">](https://michael-shu.github.io/copyWebsiteAssistanceForward/)
 
 [Grants Reach React Repo](https://github.com/michael-shu/grants-reach-react)
 [<img src = "https://github.com/michael-shu/images/blob/main/grantsReach.png">](https://github.com/michael-shu/grants-reach-react)
-
-[To Do List Repo](https://github.com/michael-shu/toDoList)
-[<img src = "https://github.com/michael-shu/images/blob/main/task%20list.png">](https://michael-shu.github.io/toDoList/)
-
-[Capitalizer Repo](https://github.com/michael-shu/capitalizer-react)
-[<img src = "https://github.com/michael-shu/images/blob/main/capitalizer.png">](https://michael-shu.github.io/capitalizer-react/)
 
 
 ### 📊 My github stats
