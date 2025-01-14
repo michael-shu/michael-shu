@@ -58,6 +58,7 @@ Here are projects and applications that I've built. Each image will lead you dir
 
 #### FrontEnd
 [Recipeasy Repo](https://recipeasy-zeta.vercel.app/)
+
 [<img src = "https://github.com/michael-shu/recipeasy/blob/master/Recipeasy.png">](https://recipeasy-zeta.vercel.app/)
 
 [Grants Reach React Repo](https://github.com/michael-shu/grants-reach-react)
