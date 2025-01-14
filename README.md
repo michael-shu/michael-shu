@@ -61,8 +61,9 @@ Here are projects and applications that I've built. Each image will lead you dir
 
 [<img src = "https://github.com/michael-shu/recipeasy/blob/master/Recipeasy.png">](https://recipeasy-zeta.vercel.app/)
 
-[Grants Reach React Repo](https://github.com/michael-shu/grants-reach-react)
-[<img src = "https://github.com/michael-shu/images/blob/main/grantsReach.png">](https://kingdomdle.vercel.app/)
+[Kingdomle Repo](https://github.com/michael-shu/kingdomdle/)
+
+[<img src = "https://github.com/michael-shu/kingdomdle/blob/master/public/Banner.png">](https://kingdomdle.vercel.app/)
 
 
 ### 📊 My github stats
