@@ -57,12 +57,12 @@ If you would like to reach me, connect with my LinkedIn, or use the contact form
 Here are projects and applications that I've built. Each image will lead you directly to the website. Also attached are the github repos.
 
 #### FrontEnd
-[Recipeasy Repo](https://recipeasy-zeta.vercel.app/)
+[Recipeasy Repo](https://github.com/michael-shu/recipeasy/)
 
 [<img src = "https://github.com/michael-shu/recipeasy/blob/master/Recipeasy.png">](https://recipeasy-zeta.vercel.app/)
 
 [Grants Reach React Repo](https://github.com/michael-shu/grants-reach-react)
-[<img src = "https://github.com/michael-shu/images/blob/main/grantsReach.png">](https://github.com/michael-shu/grants-reach-react)
+[<img src = "https://github.com/michael-shu/images/blob/main/grantsReach.png">](https://kingdomdle.vercel.app/)
 
 
 ### 📊 My github stats
